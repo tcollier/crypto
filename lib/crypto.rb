@@ -1,4 +1,4 @@
-require "crypto/version"
+require 'crypto/version'
 
 module Crypto
   # Your code goes here...
