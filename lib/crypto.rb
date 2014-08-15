@@ -1,3 +1,4 @@
+require 'crypto/encoder'
 require 'crypto/version'
 
 module Crypto
